@@ -465,7 +465,7 @@ static void TMReachabilityCallback(SCNetworkReachabilityRef target, SCNetworkRea
 
 -(void) testMethod
 {
-    NSLog(@"testMethod ");
+    NSLog(@"testMethod 3.4");
 }
 
 #pragma mark - Debug Description
